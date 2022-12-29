@@ -93,3 +93,23 @@ printf("%d\t",queue[i]);
 }
 }
 
+
+
+//ALGO
+
+//Step 1 Create any empty circular -queue by giving name and size q[10] 
+//Stepe 2- Initially assign rear=-1, front = -1 
+//Steps 3: if choice == Inset then 
+//if (Rear + 1)% Max == front then 
+//Print "Queue 10 full"; 
+//else
+//Rear (Rear +1)% Max.
+ //Step 4: if choice== delete then
+//If front == -1 then 
+//Print "Queue is Empty" 
+//else 
+//if front== Max-1 then.
+//front=0
+ //else front= front+1:
+//Step 5- END
+
