@@ -34,4 +34,16 @@ int main()
     printf("\n");  
   getch();
     return 0;  
-}  
+} 
+
+
+// ALGO 
+//INSERT (A,N,POS,ITEM)
+
+//STEP1-BEGIN
+//SETP2-REAPET STEP 3 & 4 WHILE 1>POS
+//STEP3-SET A [ I+1] = A [ I ]
+//STEP4-SET I=I-1
+//STEP5-SET A[POS]=ITEM
+//STEP6-SET N=N+1
+//STEP7-STOP
