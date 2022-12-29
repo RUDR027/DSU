@@ -28,3 +28,22 @@ for(i = 0; i < n; i++)
 printf("%d\n", a[i]);
 getch();
 }
+
+
+//ALGO
+//Step 1: Start
+
+//Step 2: Set i=0, loc= 0 and temp=0 Repeat Steps 4-6 while i < size
+
+//Step 3: Step 4: Set loc Min(arr, i, size)
+
+//Step 5: Swap the elements stored at arr[i] and alloc] by performing the
+
+//following steps
+
+//Set temp = alloc] Set alloc]=a[i]
+
+//Set a[i]=temp = i +1
+
+//Step 6: Seti Step 
+//8: Stop
